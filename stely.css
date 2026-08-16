@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{  display: inline-block;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    margin-bottom: 15px;
+}
+.p1,.p2,.p3,.p4,.p5,.p6{
+    display: inline-block;
+    border: 2px solid black;
+    padding-bottom: 150px;
+    padding-right: 150px;
+    padding-top: 5px;
+}
+h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.p7{
+    margin-bottom: 5px;
+}
+p span{
+    border: 2px solid black;
+}
+.p8{
+    border: 2px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
